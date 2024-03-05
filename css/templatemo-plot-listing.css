@@ -130,4 +130,8 @@ Popular Categories
   width: 100%;
   text-align: center;
 }
-
+@media (max-width: 768px){
+  .popular-categories .nacc .thumb .right-image {
+    padding-left: 10px;
+}
+}
